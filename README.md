@@ -30,4 +30,4 @@ The Excel file `potato-late-blight-metadata.xlsx` includes raw and processed dat
 ## Citation
 If you use this dataset, please cite:
 
-> Castaño J. et al. (2025). *Meta-analysis of predictive models of potato late blight pathosystem under climate change I: Robustness of predictive models over time and need to recalibration*. Agriculture (in review).
+> Castaño J. et al. (2025). *Meta-analysis on criteria and forecasting models for potato late blight pathosystem: Assessing robustness and temporal con-sistency*. Agriculture (in review).
